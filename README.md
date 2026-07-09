@@ -5,6 +5,7 @@ Overview of internship work from June 8 to July 9, 2026. Project focuses on thre
 ## Folder Navigation
 
 - **animation/**: Standalone interactive web animations demonstrating PLL behavior.
+can also be accessed from <https://lonepo.github.io/blog/pll-visual.html>
 - **References/**: Reference literature, books, and datasheets (ignored in Git).
 - **Screenshots/**: Waveforms, test results, and simulation screenshots.
 - **IIT_Internship.pdf / .pptx**: Final presentation summarizing the internship.
@@ -12,6 +13,7 @@ Overview of internship work from June 8 to July 9, 2026. Project focuses on thre
 - **PLL_inv_final.slx**: MATLAB/Simulink model of the PLL-based inverter system.
 - **threephase_inverter_final.slx**: MATLAB/Simulink model of the three-phase inverter.
 - **PLL_values.m**: MATLAB script containing calculations and parameter values for the PLL.
+- **c2000projects**: All C2000 project files
 
 ## Hardware Summary
 
