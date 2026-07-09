@@ -1,0 +1,11 @@
+Vdc=700;
+Kpc=14.14;
+Kic=314.2;
+Kpl=42.42;
+Kil=900;
+Vrms=400;
+L1=3e-3;
+L2=1.5e-3;
+Cf=20e-6;
+Imax=-50;
+Iload=out.Iload;
