@@ -13,7 +13,7 @@ can also be accessed from <https://lonepo.github.io/blog/pll-visual.html>
 - **PLL_inv_final.slx**: MATLAB/Simulink model of the PLL-based inverter system.
 - **threephase_inverter_final.slx**: MATLAB/Simulink model of the three-phase inverter.
 - **PLL_values.m**: MATLAB script containing calculations and parameter values for the PLL.
-- **c2000projects**: All C2000 project files
+- **c2000projects**: All C2000 project files(PLL output of DAC comes in ADCINA0 and A1 physical pins 30 and 70)
 
 ## Hardware Summary
 
@@ -62,3 +62,9 @@ can also be accessed from <https://lonepo.github.io/blog/pll-visual.html>
 
 - Texas Instruments. *TMS320F28379D Real-Time Microcontrollers Technical Reference Manual*.
 - Tolarix IGBT Half-Bridge Module Datasheets.
+
+Done by:
+Gautam
+Under the guidance of Prof. Abhijit Kshirsagar
+with help from Renuka Varma and Pradeep Kumar M
+and Vivek Kumble
