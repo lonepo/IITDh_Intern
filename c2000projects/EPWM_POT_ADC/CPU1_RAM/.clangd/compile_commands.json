@@ -1,0 +1,62 @@
+[
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_Adc.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_CodeStartBranch.asm"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_DefaultISR.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_GlobalVariableDefs.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_Gpio.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_Ipc.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_PieCtrl.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_PieVect.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_SysCtrl.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_usDelay.asm"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/epwm_pot_adc.c"
+   },
+   {
+      "directory" : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/CPU1_RAM",
+      "command"   : "clang++ -I\"/home/asus/ti/ccs2041/ccs/tools/compiler/ti-cgt-c2000_22.6.3.LTS/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/headers/include\" -I\"/home/asus/ti/c2000/C2000Ware_6_00_01_00/device_support/f2837xd/common/include\" -DCPU1 -xc",
+      "file"      : "/home/asus/workspace_ccstheia/EPWM_POT_ADC/F2837xD_EPwm.c"
+   }
+]

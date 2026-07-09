@@ -21,34 +21,42 @@ Overview of internship work from June 8 to July 9, 2026. Project focuses on thre
 ## Weekly Progress (June 8 - July 9)
 
 ### Week 1 (June 8 - June 15)
+
 - Conducted project overview and literature survey on PLL techniques.
 - Modeled simple three-phase inverter in MATLAB/Simulink.
 - Tested different PWM generation techniques, including sinusoidal PWM (SPWM) and complementary PWM with dead-band.
 - Verified PWM generation outputs on oscilloscope.
 
 ### Week 2 (June 16 - June 23)
+
 - Performed tuning and calculations of PI controller values for the PLL.
 - Run iterations of PLL simulation under grid disturbances.
 - Calculated LCL filter component specifications based on system specifications.
 
 ### Week 3 (June 24 - June 30)
+
 - Explored C2000 DSP microcontroller hardware architecture using NPTEL lectures (Prof. Narasamma).
 - Implemented C2000 program to output complementary SPWM with dead-band.
 - Set up interface between C2000 microcontroller and Tolarix IGBT power stage.
 
 ### Week 4 (July 1 - July 9)
+
 - Replicated full grid-tied inverter plant model in C2000 microcontroller code.
 - Configured DAC pins to output inverter waveforms for oscilloscope monitoring.
 - Prepared final project presentation slides and summarized experimental results.
 
 ## References
 
+## Digital Controller for Power Applications
+
 ### Inverter Control and PLL Theory
+
 - Bhim Singh, Ambrish Chandra, and Kamal Al-Haddad. *Power Quality Problems and Mitigation Techniques*. John Wiley & Sons, 2015.
 - Xinbo Ruan, Xuehua Wang, Donghua Pan, Dongsheng Yang, Weiwei Li, and Chenlei Bao. *Control Techniques for LCL-Type Grid-Connected Inverters*. Springer, 2018.
 - L. Umanand. *NPTEL Course on Power Electronics*.
-- Wikipedia. *Direct-quadrature-zero transformation*. https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation
+- Wikipedia. *Direct-quadrature-zero transformation*. <https://en.wikipedia.org/wiki/Direct-quadrature-zero_transformation>
 
 ### Hardware Manuals
+
 - Texas Instruments. *TMS320F28379D Real-Time Microcontrollers Technical Reference Manual*.
 - Tolarix IGBT Half-Bridge Module Datasheets.
